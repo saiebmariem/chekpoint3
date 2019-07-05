@@ -1,0 +1,117 @@
+h1{
+    color:rgb(59, 6, 6);
+    border-style: solid;
+    
+}
+body{
+background-color: brown;
+background-image: url(C:\Users\asus\Desktop\gomycode\1\res\pic1.jpg)
+
+}
+.one{
+    color: azure;
+    font-size:40px;
+    margin-right: 130px;
+    display: inline;
+}
+.two{
+
+    border-style: solid;
+    border-color: azure;
+    margin-left: 40%;
+    margin-right:40%;
+    font-size: 30px;
+    background-color: grey;
+}
+.five{
+    font-size: 20px
+}
+#pics{
+    
+}
+.pic1{
+    background-image: url("../res/obj1.png");
+        width: 200px;
+        height:100px ;
+        background-repeat: no-repeat;
+        display:inline-block;
+        overflow: hidden;
+    padding-top: 60px
+    
+}
+.pic2{
+    background-image: url("../res/obj2.png");
+    width: 200px;
+    height:100px;
+    background-repeat: no-repeat;
+    display:inline-block;
+    overflow: hidden;
+    padding-top: 60px
+    
+
+}
+    
+.pic3{
+    background-image: url("../res/obj3.png");
+    width: 200px;
+    height:100px ;
+    background-repeat: no-repeat;
+    display:inline-block;
+    overflow: hidden;
+    padding-top: 60px
+    
+}
+.pic4{
+    background-image: url("../res/obj4.png");
+    width: 200px;
+    height:100px ;
+    background-repeat: no-repeat;
+    display:inline-block;
+    overflow: hidden;
+    padding-top: 60px
+}
+.pic5{ background-image: url("../res/obj5.png");
+    width: 200px;
+    height:100px ;
+    background-repeat: no-repeat;
+    display:inline-block;
+    overflow: hidden;
+    padding-top: 60px
+    
+    
+} 
+.pic6{ background-image: url("../res/obj6.png");
+    width: 200px;
+    height:100px ;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    display:inline-block;
+    padding-top: 60px
+    
+} 
+.pic7{ background-image: url("../res/obj7.png");
+    width: 200px;
+    height:100px ;
+    background-repeat: no-repeat;
+    display:inline-block;
+    overflow: hidden;
+    padding-top: 60px
+    
+} 
+.pic8{ background-image: url("../res/obj8.png");
+    width: 200px;
+    height:100px ;
+    background-repeat: no-repeat;
+    display:inline-block;
+    overflow: hidden;
+    padding-top: 60px
+} 
+.pic9{ background-image: url("../res/obj9.png");
+    width: 200px;
+    height:100px ;
+    background-repeat: no-repeat;
+    display:inline-block;
+    overflow: hidden;
+    padding-top: 60px;
+    
+} 
